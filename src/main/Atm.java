@@ -26,8 +26,8 @@ public class Atm {
    	 System.out.println();
    	
    	 System.out.print("Enter your choice: ");
-        int choice = sc.nextInt();
-        System.out.println();
+     int choice = sc.nextInt();
+     System.out.println();
         
 
        
